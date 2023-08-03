@@ -1,0 +1,12 @@
+github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 h1:sDMmm+q/3+BukdIpxwO365v/Rbspp2Nt5XntgQRXq8Q=
+github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
+github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab h1:xveKWz2iaueeTaUgdetzel+U7exyigDYBryyVfV/rZk=
+github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab/go.mod h1:/P9AEU963A2AYjv4d1V5eVL1CQbEJq6aCNHDDjibzu8=
+github.com/scalingdata/go-inject v0.0.0-20161013160000-0503c2c471d4 h1:YZel40hZb9/tIgplivA0lBItETNug4hFQoJg83SlF+Q=
+github.com/scalingdata/go-inject v0.0.0-20161013160000-0503c2c471d4/go.mod h1:g571sZ9oBhdyw1YprdiHwCJJ35resTet52C8BWhTp38=
+github.com/scalingdata/go-martini v0.0.0-20161013160822-524005143505 h1:h3/SqX/dmiAuBM8uIDaXOn8KxqDuYpqLZnIokV1ylas=
+github.com/scalingdata/go-martini v0.0.0-20161013160822-524005143505/go.mod h1:XXpQsR9C/lsBVvv4EMuseY4ITSorq+7sIniUlU0zQ2E=
+github.com/scalingdata/go-martini-contrib-render v0.0.0-20161013161830-0c72f740a7ea h1:WioyqhTA5Ob/vmgoHkmwZg05fFHaiOXl6DYFDlQNIwI=
+github.com/scalingdata/go-martini-contrib-render v0.0.0-20161013161830-0c72f740a7ea/go.mod h1:tdDxxkeZCit1mHQzfoutCWnLpIHE5ph8av5Tp0/FdkQ=
+github.com/scalingdata/go-oxtoacart-bpool v0.0.0-20161013171320-18f96869a170 h1:aPSp34fnHi19TprhlAteJoF+prrkYSr7f7MfEd/uQJM=
+github.com/scalingdata/go-oxtoacart-bpool v0.0.0-20161013171320-18f96869a170/go.mod h1:thhF6ZffCVpxdL1f8fHCMLhd7DYOup/lyg5BFSlqAPI=
